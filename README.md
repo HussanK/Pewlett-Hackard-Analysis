@@ -16,5 +16,6 @@ company with a lot of employee's heading into retirement. We then took the data 
 
 ##Summary
 
-Looking at the Graph from the results section. There are 
+Looking at the Graph from the results section. There are about 70000 positions that would need to be filled as the 'silver tsunami' takes major effect. Fortunately there are 
+enough mentors available to train the new employees. 
 
